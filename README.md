@@ -76,23 +76,30 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ---
 
-## 📊 GitHub Overview
+---
+
+## 📈 GitHub Activity Overview
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=preethi-99&show_icons=true&theme=transparent&hide_border=true&title_color=0d6efd&text_color=333" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=preethi-99&show_icons=true&theme=default&hide_border=true&rank_icon=github" width="48%" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-99&layout=compact&theme=transparent&hide_border=true&title_color=0d6efd&text_color=333" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-99&layout=compact&theme=default&hide_border=true" width="48%" />
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=preethi-99&theme=default&hide_border=true&ring=0d6efd&fire=0d6efd&currStreakLabel=333" width="96%" />
+<img src="https://streak-stats.demolab.com?user=preethi-99&theme=default&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" width="96%" />
 
 </div>
 
 ---
 
 <p align="center">
-  <i>⭐️ Thank you for visiting my profile! Feel free to explore my repositories and connect on <a href="https://linkedin.com/in/preethi-ranganathan">LinkedIn</a>.</i>
+  <i>"Building clean, scalable, and impactful solutions — one commit at a time."</i>  
+  <br>
+  <a href="https://linkedin.com/in/preethi-ranganathan">LinkedIn</a> • 
+  <a href="mailto:prangana@gmu.edu">Email</a> • 
+  <a href="https://github.com/preethi-99">GitHub</a>
 </p>
+
