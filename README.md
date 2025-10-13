@@ -74,6 +74,25 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ---
 
-## 📈 GitHub Insights  
-![Preethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethi-99&show_icons=true&theme=default&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-99&layout=compact&theme=default&hide_border=true)
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=preethi-99&show_icons=true&theme=transparent&hide_border=true&title_color=0d6efd&text_color=333" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-99&layout=compact&theme=transparent&hide_border=true&title_color=0d6efd&text_color=333" width="48%" />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=preethi-99&theme=default&hide_border=true&ring=0d6efd&fire=0d6efd&currStreakLabel=333" width="96%" />
+
+</div>
+
+---
+
+<p align="center">
+  <i>⭐️ Thank you for visiting my profile! Feel free to explore my repositories and connect on <a href="https://linkedin.com/in/preethi-ranganathan">LinkedIn</a>.</i>
+</p>
