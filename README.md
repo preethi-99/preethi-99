@@ -74,32 +74,30 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ---
 
----
-
----
-
-## 📈 GitHub Activity Overview
+## 📊 GitHub Activity
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=preethi-99&show_icons=true&theme=default&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=preethi-99&show_icons=true&theme=default&hide_border=true" width="48%" />
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-99&layout=compact&theme=default&hide_border=true" width="48%" />
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=preethi-99&theme=default&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" width="96%" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=preethi-99&theme=default&hide_border=true&border_radius=5" width="96%" />
 
 </div>
 
 ---
 
 <p align="center">
-  <i>"Building clean, scalable, and impactful solutions — one commit at a time."</i>  
-  <br>
+  <i>"Turning ideas into scalable, high-quality software solutions."</i><br>
   <a href="https://linkedin.com/in/preethi-ranganathan">LinkedIn</a> • 
   <a href="mailto:prangana@gmu.edu">Email</a> • 
   <a href="https://github.com/preethi-99">GitHub</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=preethi-99&style=flat&color=gray" alt="Profile views" />
+</p>
