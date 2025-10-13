@@ -78,26 +78,26 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=preethi-99&show_icons=true&theme=default&hide_border=true" width="48%" />
+<!-- Overall Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=preethi-99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=default"
+  width="48%" alt="GitHub stats"
+/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-99&layout=compact&theme=default&hide_border=true" width="48%" />
+<!-- Top Languages (compact, minimal) -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-99&layout=compact&langs_count=6&hide_border=true&theme=default&hide=Jupyter%20Notebook"
+  width="48%" alt="Top languages"
+/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=preethi-99&theme=default&hide_border=true&border_radius=5" width="96%" />
+<!-- Commit Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=preethi-99&hide_border=true&date_format=M%20j%5B,%20Y%5D&fire=DD6B20&ring=4F46E5&currStreakLabel=111827&theme=default"
+  width="96%" alt="GitHub streak"
+/>
 
 </div>
 
----
-
 <p align="center">
-  <i>"Turning ideas into scalable, high-quality software solutions."</i><br>
-  <a href="https://linkedin.com/in/preethi-ranganathan">LinkedIn</a> • 
-  <a href="mailto:prangana@gmu.edu">Email</a> • 
-  <a href="https://github.com/preethi-99">GitHub</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preethi-99&style=flat&color=gray" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=preethi-99&style=flat&color=gray" alt="profile views" />
 </p>
