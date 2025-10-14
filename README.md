@@ -71,33 +71,31 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ## 🏅 Certification  
 **Oracle Certified Professional – Java SE 8 Programmer II**
-
 ---
 
-## 📊 GitHub Activity
+## GITHUB ACTIVITY  
 
 <div align="center">
 
-<!-- Overall Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=preethi-99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=default"
-  width="48%" alt="GitHub stats"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preethi-99&theme=default" width="100%" />
 
-<!-- Top Languages (compact, minimal) -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-99&layout=compact&langs_count=6&hide_border=true&theme=default&hide=Jupyter%20Notebook"
-  width="48%" alt="Top languages"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preethi-99&theme=default" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preethi-99&theme=default" width="48%" />
 
-<!-- Commit Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=preethi-99&hide_border=true&date_format=M%20j%5B,%20Y%5D&fire=DD6B20&ring=4F46E5&currStreakLabel=111827&theme=default"
-  width="96%" alt="GitHub streak"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=preethi-99&theme=default" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preethi-99&theme=default&utcOffset=5" width="48%" />
 
 </div>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preethi-99&style=flat&color=gray" alt="profile views" />
+  <i>"Turning ideas into scalable, high-quality software solutions."</i><br>
+  <a href="https://linkedin.com/in/preethi-ranganathan">LinkedIn</a> • 
+  <a href="mailto:prangana@gmu.edu">Email</a> • 
+  <a href="https://github.com/preethi-99">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=preethi-99&style=flat&color=gray" alt="Profile views" />
 </p>
