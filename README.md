@@ -70,11 +70,9 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 ---
 
 ## 🏅 Certification  
-**Oracle Certified Professional – Java SE 8 Programmer II**
+Oracle Certified Professional – Java SE 8 Programmer II
 ---
 
-## GITHUB ACTIVITY  
----
 
 <p align="center">
   <i>"Turning ideas into scalable, high-quality software solutions."</i><br>
