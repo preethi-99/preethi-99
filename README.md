@@ -74,19 +74,6 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 ---
 
 ## GITHUB ACTIVITY  
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preethi-99&theme=default" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preethi-99&theme=default" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preethi-99&theme=default" width="48%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=preethi-99&theme=default" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preethi-99&theme=default&utcOffset=5" width="48%" />
-
-</div>
-
 ---
 
 <p align="center">
