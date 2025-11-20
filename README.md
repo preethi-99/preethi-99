@@ -109,7 +109,6 @@ _(Also part of your Research Assistant work)
 ## 🛠️ Technical Skills  
 
 **Languages & Backend:**  Python, Java, JavaScript, SQL, PL/SQL, C, C++,C#,  Spring Boot, REST APIs, Hibernate, .NET
-
 **Frontend & UI:**  React, JSP, MUI, HTML, CSS, Figma, Next.js, Tailwind CSS, Angular, Node.js
 **DevOps & Tools:** AWS (EC2, RDS), Jenkins, Docker, Kubernetes, GitHub Actions, Bitbucket, Jira, Azure, Rancher
 **AI/ML & Data:** OpenAI API, scikit-learn, Pandas, NumPy, Matplotlib, Power BI, LangChain
