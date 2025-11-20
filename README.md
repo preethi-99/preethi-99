@@ -85,8 +85,8 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ---
 
-### 📱 AI Voice Interaction Automation (Rooted Android)  
-_(Also part of your Research Assistant work)_  
+### 📱 AI Voice Interaction Automation 
+_(Also part of your Research Assistant work)
 - Engineered a rooted Android automation system to simulate real-time mic input in **Google Gemini**, using **OS commands (am, input, dumpsys)** and **TTS**.  
 - Implemented a **logcat-driven audio trigger pipeline** with **95% accuracy** across 100+ trials for mic activation detection.  
 - Eliminated ADB dependency by creating an on-device event and audio-injection workflow, reducing latency and enabling hands-free interaction.
@@ -113,6 +113,14 @@ _(Also part of your Research Assistant work)_
 **DevOps & Tools:** AWS (EC2, RDS), Jenkins, Docker, Kubernetes, GitHub Actions, Bitbucket, Azure, Rancher, Jira  
 **Databases:** MySQL, PostgreSQL, Oracle SQL  
 **Others:** JUnit, TDD, Power BI, Matplotlib, AI-assisted Coding (GitHub Copilot, Claude, ChatGPT)
+
+
+TECHNICAL SKILLS
+**Languages & Backend:**  Python, Java, JavaScript, SQL, PL/SQL, C, C++,C#,  Spring Boot, REST APIs, Hibernate, .NET
+**Frontend & UI:**  React, JSP, MUI, HTML, CSS, Figma, Next.js, Tailwind CSS, Angular, Node.js
+**DevOps & Tools:** AWS (EC2, RDS), Jenkins, Docker, Kubernetes, GitHub Actions, Bitbucket, Jira, Azure, Rancher
+**AI/ML & Data:** OpenAI API, scikit-learn, Pandas, NumPy, Matplotlib, Power BI, LangChain
+**Databases/Other:** Oracle SQL, MySQL, PostgreSQL, JUnit, TDD, AI-assisted coding (GitHub Copilot, Claude, ChatGPT
 
 ---
 
