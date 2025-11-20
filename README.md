@@ -72,8 +72,7 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 ### 🧩 Microservices-Based Student Survey System  
 - Architected a fully containerized survey management platform using **Spring Boot** for backend microservices and **MySQL (Amazon RDS)** for persistent data storage.  
 - Containerized all services using **Docker** and orchestrated deployments with **Kubernetes (Rancher on AWS EC2)** for high availability and scalability.  
-- Implemented end-to-end CI/CD pipelines using **GitHub Actions + Jenkins**, automating build, test, and deployment workflows.  
-- Designed REST APIs for student submissions, admin dashboards, survey distribution, and analytics processing.
+- Implemented end-to-end CI/CD pipelines using **GitHub Actions + Jenkins**, automating build, test, and deployment workflows. 
 
 ---
 
