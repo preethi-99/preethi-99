@@ -93,7 +93,7 @@ _(Also part of your Research Assistant work)
 
 ---
 ### 📄 Legal Document Assistant (LLM) — Python, FastAPI, OpenAI API  
-- Built a **FastAPI** backend that parses legal documents using **regex** and Python string-processing techniques to detect placeholders and incomplete clauses.  
+- Built a **FastAPI** backend that parses legal documents using **regex** and Python string-processing techniques to detect placeholders and incomplete clauses; ; integrated an **OpenAI API token** for secure LLM calls.
 - Designed an LLM-powered filling engine where users provide a short value summary, and the system **auto-generates context-accurate legal text** to populate all detected placeholders.  
 - Deployed a simple, intuitive **Streamlit UI** for uploading documents, visualizing extracted fields, and previewing the LLM-completed draft.  
 
