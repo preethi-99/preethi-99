@@ -85,7 +85,7 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 ---
 
 ### 📱 AI Voice Interaction Automation 
-_(Also part of your Research Assistant work)
+(Also part of the Research Assistant work)
 - Engineered a rooted Android automation system to simulate real-time mic input in **Google Gemini**, using **OS commands (am, input, dumpsys)** and **TTS**.  
 - Implemented a **logcat-driven audio trigger pipeline** with **95% accuracy** across 100+ trials for mic activation detection.  
 - Eliminated ADB dependency by creating an on-device event and audio-injection workflow, reducing latency and enabling hands-free interaction.
