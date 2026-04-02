@@ -105,6 +105,12 @@ _(Also part of your Research Assistant work)
 
 ---
 
+### 📊 User Engagement & Conversion Analysis — Python, Power BI, Pandas, DAX
+- Analyzed ~641K user records to define key KPIs, identifying a low **2.7% completion rate** and major drop-offs in the user funnel.
+- Built an interactive **Power BI dashboard** with DAX measures (*Completion Rate, Avg Grade*) to monitor user conversion and engagement.
+- Derived insights showing **high engagement correlates with completion (~84% avg grade)**, recommending improvements in retention and onboarding.
+---  
+
 ## 🛠️ Technical Skills  
 
 **Languages & Backend:**  
