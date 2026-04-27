@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Preethi Ranganathan  
 
 🎓 Master’s in Computer Science, George Mason University (GPA: 3.77)  
-💻 Passionate about software engineering, backend systems, and scalable full-stack development  
-📍 Based in West Lafayette, IN | Open to relocation  
+💻 Passionate about software engineering, backend systems, and scalable full-stack development   
 📫 prangana@gmu.edu | [LinkedIn](https://linkedin.com/in/preethi-ranganathan) | [GitHub](https://github.com/preethi-99)
 
 ---
