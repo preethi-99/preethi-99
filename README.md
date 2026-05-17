@@ -16,7 +16,7 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ## 💼 Experience
 
-### 👩‍💻 Web Developer & Data Analyst — George Mason University, Contemporary Student Services  
+###  Software Developer — George Mason University, Contemporary Student Services  
 **Jul 2025 – Present**  
 - Built and deployed full-stack web applications using **Next.js and Tailwind CSS**, boosting portal engagement by **30%** and serving **10K+ active users**.  
 - Developed backend data integration services using **Python (Pandas, NumPy)** and **SQL** for cleaning and validating student datasets.  
@@ -24,7 +24,7 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ---
 
-### 🎨 UI Developer — George Mason University  
+### UI Developer — George Mason University  
 **Aug 2023 – May 2025**  
 - Engineered a full front-end redesign of GMU’s **Patriot Web portal** using **React, JavaScript, MUI, CSS**, improving navigation & accessibility for **30K+ students**.  
 - Refactored multiple UI components, applied modern accessibility standards (ARIA/WCAG), and optimized rendering paths, resulting in **25% faster page loads**.  
@@ -32,7 +32,7 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ---
 
-### 🔬 Research Assistant — AI Voice Interaction Automation (GMU CS Dept.)  
+###  Research Assistant — AI Voice Interaction Automation (GMU CS Dept.)  
 **Jan 2025 – May 2025**  
 - Engineered a rooted Android automation framework to simulate voice input in Google Gemini using **OS-level commands** (`am`, `input`, `dumpsys`), **Text-to-Speech**, and **Accessibility Services**.  
 - Implemented a high-accuracy **real-time logcat parser** for audio-trigger detection with **95% mic synchronization accuracy** validated over **100+ trials**.  
@@ -40,7 +40,7 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ---
 
-### 🏦 Software Engineer — Virtusa (Client: Citi – Global Credit Platform)  
+###  Software Engineer — Virtusa (Client: Citi – Global Credit Platform)  
 **Aug 2022 – Aug 2023**  
 - Developed and shipped backend **Spring Boot microservices** supporting **100K+ daily banking transactions**, collaborating across Agile teams in **3 time zones**.  
 - Integrated **Apache Kafka** for real-time credit decisions, reducing reconciliation time by **80%** and improving system throughput for customer evaluations.  
@@ -49,7 +49,7 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ---
 
-### 🛠 Associate Engineer — Virtusa  
+###  Associate Engineer — Virtusa  
 **Aug 2021 – Aug 2022**  
 - Optimized PL/SQL batch-processing jobs for internal dashboards, improving execution time by **25%** for **50K+ users**.  
 - Built internal enterprise modules using **Spring MVC, JSP, JavaScript, Oracle DB**, reducing helpdesk ticket resolution time by **35%**.  
@@ -68,43 +68,43 @@ I focus on delivering reliable, user-centric systems that solve real-world probl
 
 ## 🚀 Projects
 
-### 🧩 Microservices-Based Student Survey System  
+###  Microservices-Based Student Survey System  
 - Architected a fully containerized survey management platform using **Spring Boot** for backend microservices and **MySQL (Amazon RDS)** for persistent data storage.  
 - Containerized all services using **Docker** and orchestrated deployments with **Kubernetes (Rancher on AWS EC2)** for high availability and scalability.  
 - Implemented end-to-end CI/CD pipelines using **GitHub Actions + Jenkins**, automating build, test, and deployment workflows. 
 
 ---
 
-### 🖐️ Cursor Control via Hand Gestures (Computer Vision + ML)  
-- Built a real-time gesture-controlled cursor system combining a **custom CNN** with **MediaPipe** hand landmark detection.  
-- Trained the gesture classification model on custom datasets, achieving **84% accuracy** in recognizing 5 distinct gestures.  
-- Integrated computer vision and system control to translate gestures into OS-level mouse actions (click, drag, swipe, movement).  
-- Optimized frame processing and detection pipeline to maintain smooth on-screen cursor movement.
-
----
-
-### 📱 AI Voice Interaction Automation 
+### AI Voice Interaction Automation 
 (Also part of the Research Assistant work)
 - Engineered a rooted Android automation system to simulate real-time mic input in **Google Gemini**, using **OS commands (am, input, dumpsys)** and **TTS**.  
 - Implemented a **logcat-driven audio trigger pipeline** with **95% accuracy** across 100+ trials for mic activation detection.  
 - Eliminated ADB dependency by creating an on-device event and audio-injection workflow, reducing latency and enabling hands-free interaction.
 
 ---
-### 📄 Legal Document Assistant (LLM) — Python, FastAPI, OpenAI API  
+###  Legal Document Assistant (LLM) — Python, FastAPI, OpenAI API  
 - Built a **FastAPI** backend that parses legal documents using **regex** and Python string-processing techniques to detect placeholders and incomplete clauses; ; integrated an **OpenAI API token** for secure LLM calls.
 - Designed an LLM-powered filling engine where users provide a short value summary, and the system **auto-generates context-accurate legal text** to populate all detected placeholders.  
 - Deployed a simple, intuitive **Streamlit UI** for uploading documents, visualizing extracted fields, and previewing the LLM-completed draft.  
 
 ---
 
-### 📊 Employee Promotion Prediction — Python, scikit-learn, Pandas, NumPy  
+### Employee Promotion Prediction — Python, scikit-learn, Pandas, NumPy  
 - Developed an end-to-end **machine learning pipeline** using HR analytics data with preprocessing, Z-score normalization, and **PCA**-based dimensionality reduction.  
 - Applied **SMOTE** to balance minority classes and compared multiple models (*Random Forest, SVM, KNN, Logistic Regression*).  
 - Achieved **91% accuracy** using Logistic Regression and performed **SHAP explainability analysis** to interpret features and evaluate fairness across employee groups.
 
 ---
 
-### 📊 User Engagement & Conversion Analysis — Python, Power BI, Pandas, DAX
+
+### Cursor Control via Hand Gestures (Computer Vision + ML)  
+- Built a real-time gesture-controlled cursor system combining a **custom CNN** with **MediaPipe** hand landmark detection.  
+- Trained the gesture classification model on custom datasets, achieving **84% accuracy** in recognizing 5 distinct gestures.  
+- Integrated computer vision and system control to translate gestures into OS-level mouse actions (click, drag, swipe, movement).  
+- Optimized frame processing and detection pipeline to maintain smooth on-screen cursor movement.
+
+---
+###  User Engagement & Conversion Analysis — Python, Power BI, Pandas, DAX
 - Analyzed ~641K user records to define key KPIs, identifying a low **2.7% completion rate** and major drop-offs in the user funnel.
 - Built an interactive **Power BI dashboard** with DAX measures (*Completion Rate, Avg Grade*) to monitor user conversion and engagement.
 - Derived insights showing **high engagement correlates with completion (~84% avg grade)**, recommending improvements in retention and onboarding.
